@@ -1,8 +1,7 @@
 How to get the most from Machine Learning Books and Courses
 如何充分利用机器学习书籍和课程
 
-There are a lot of machine learning books and courses
-avaliable and a trend towards free university courses
-and ebooks. With so much excellent resources avaliable
-it can feel overwhelming. So much so that it may prevent
+There are a lot of machine learning books and courses avaliable and a trend towards free university courses
+and ebooks. With so much excellent resources avaliable it can feel overwhelming. So much so that it may prevent
 you from getting started or making progress. 
+可使用的机器学习书籍、课程有许多并且有些免费的大学课程和电子书。
