@@ -6,3 +6,6 @@ and ebooks. With so much excellent resources avaliable it can feel overwhelming.
 you from getting started or making progress. 
 可使用的机器学习书籍、课程有许多并且有些免费的大学课程和电子书。拥有如此多的可选择的极好的资源会让人不知所措。
 资源是如此的丰富以至于可能阻止着你开始和进步。
+In this post I want to share with you my tips for self study that allow me to touch a resource 
+once, extract everything I think I can learn from that resource and integrate it into my own knowledge base so that I can make use of it going forward.
+这篇博客中我会向你分享我的一些自学的建议，这些建议让我一遍过完资源后，获得我觉得我能够从资源中学到的所有东西并整合到我的知识仓库（knowledge base）中以便于我将来充分利用。
