@@ -9,3 +9,24 @@ you from getting started or making progress.
 In this post I want to share with you my tips for self study that allow me to touch a resource 
 once, extract everything I think I can learn from that resource and integrate it into my own knowledge base so that I can make use of it going forward.
 这篇博客中我会向你分享我的一些自学的建议，这些建议让我一遍过完资源后，获得我觉得我能够从资源中学到的所有东西并整合到我的知识仓库（knowledge base）中以便于我将来充分利用。
+The knowledge base strategy and tactics I use were developed at university while competing
+ a myraid of degrees and higer degrees. Although useful in a formal setting, I think they are 
+ invaluable in self study enviroments where there is more pressure to be efficient with your time and resourcec.
+我使用的知识库策略和战术是当初在大学学习直到读博都用到的。虽然在学校的时候是有用的，但是我认为在自学时特别是压力下高效利用你的时间和资源也是很有用的
+Knowledge Base Strategy
+Adopt a knowledge base strategy. A knowledge base strategy is a corpus of material you have created
+ that support your memeory. You don`t have to remember the details of everything you have studied
+ , just what you studied and where your notes are located.
+ 知识库策略
+ 运用知识库策略。知识库策略就是帮助你记忆的材料集。你不必记住所有学习过的东西，仅仅记的自己的所学和所记的笔记在哪里
+ The kownledge base stratey requires that you create a directory on your computer or in the cloud. Under that
+ directory you create a document for each course and book you complete or read that describes what you learned
+ from that material and where to go to get more detail. For larger courses you may need to creat a subdirectory
+ and a document for each week or module of the course and each assignment. The specific breakdown of directory 
+ strcture and document is at you discretion.
+ 知识库策略需要你在电脑或者云上创建一个文件夹。在该文件夹下，你为学过的每个课程以及完成的书本或者读过的关于所学的以及得到更多细节的
+ 创建一个文档。对于一些量大的课程，你可能需要为每一周或者每一个模块创建子文件夹。文件夹结构的具体分类和文档有你自己决定。
+ The principle is that you touch each resource once and process it thoroughly so that you can make best use of it again
+ in the future as you need to. This typically means reading or consuming it and taking clear notes.
+ (知识库的)原理就是你细致的一次过完每一项后你在未来需要的时候可以充分的利用起来。通常意味着细读并做好笔记。
+ 
