@@ -25,7 +25,7 @@ Adopt a knowledge base strategy. A knowledge base strategy is a corpus of materi
  and a document for each week or module of the course and each assignment. The specific breakdown of directory 
  strcture and document is at you discretion.
  知识库策略需要你在电脑或者云上创建一个文件夹。在该文件夹下，你为学过的每个课程以及完成的书本或者读过的关于所学的以及得到更多细节的
- 创建一个文档。对于一些量大的课程，你可能需要为每一周或者每一个模块创建子文件夹。文件夹结构的具体分类和文档有你自己决定。
+ 创建一个文档。对于一些量大的课程，你可能需要为每一周或者每一个模块以及每个作业创建子文件夹。文件夹结构的具体分类和文档有你自己决定。
  The principle is that you touch each resource once and process it thoroughly so that you can make best use of it again
  in the future as you need to. This typically means reading or consuming it and taking clear notes.
  (知识库的)原理就是你细致的一次过完每一项后你在未来需要的时候可以充分的利用起来。通常意味着细读并做好笔记。
@@ -70,4 +70,36 @@ summarize the material to the key concepts and a trail that links those concepts
 in the original material such as lecture video or required reading.
 对于每个模块或者每一个周的材料，以一页纸的总结为目标。这将依据内容的数量有所变化，但目标是总结关键的概念以及联系概念的途径。任何你需要的关于这些概念的细节
 可以在诸如在讲座视频、阅读文本等原材料上找到。
-
+Study Group
+学习小组
+Form a study group of peers and advisors. You need people at your own level that are working through the material at the same space as you 
+so that you can discuss the content and ensure you understand it. Learning in groups can be more efficient than learning in isolation,
+especially if you can pair up with others that are more advanced or faster learners than yourself.
+组成一个同学或者讨论者的小组。你需要和你相同水平的人们，他们以相同的进度学习者相同的材料以便于你可以讨论内容并确定理解它。小组学习比孤立学习有效的多，特别是你
+和比你水平高一些或者学的快一些的人组队学习。
+Your study group can also include people that have already completed the course that may not be studying the material with you in concert
+but have agreed to answer the odd question or discuss the odd concept over with you on Skype.
+你的学习小组可以包括一些人，这些已经完成了该课程的人们可能没有与你一起同时完成课程但是他们同意了在Skype上回答各式各样的问题或者和你讨论各式各样的概念。
+Use your group to test out your understandings. A tactics I liked to use was to volunteer to explain concepts even if I didn`t understand
+them well. I would also share all my notes with the group for comment and I would create practice tests from the material for the group
+and myself to complete. Think of creative ways of getting the most from the group enviroment while also giving back to help others.
+利用学习小组来测试你的理解程度。我经常喜欢使用的一个技巧是主动的解释那些概念即使我没有透彻的理解它们。我还会给小组分享我的笔记以获得反馈评价。我还会为
+小组以及我本人编一些测试练习来完成。在帮助别人的同时想出各种方法来最大限度的用好小组环境。
+Complete Assigments Early
+尽早地完成作业
+Courses almost always have tools to assess your acquisition and internalization of the material. This is in the form of things like tests,
+exams, tutorials, assignments, essays and exercises.
+课上经常会有各种方式来测试你对所学的消化、吸收。通常会以测试、考试、教程、作业、论文、练习的方式
+It is especially important to take on assignments for self-study online and courses because there is typically less opportunity for your
+retention to be directly assessed.
+网上自学课程的时候做作业十分重要因为很少有专门的机会来直接测试你记住了多少。
+Note these materails at the beginning of the course and schedule to complete them early and continually review your results often. For
+example, if there is a formal exam or test, locate sample exams or test from previous iterations of the courses that you can practice on,
+even before you have been exposed to all of the material.
+注意课程开头的这些材料并早早地安排完成它们后续不断地经常回顾你的结果。比如说，如果有正式的期末考试或者测试，找到上一个你可以练习的课程的版本的卷子或者测试
+在你学完所有的材料之前。
+If there is an assignment, create a minimal version of your submission early and add to it as you learn more and are exposed to more of the 
+content of the course. You may have to actively seek it or even ask for a previous years assignment from the institutor. Use this as an
+opportunity to get as much additional content as possible, they are all aids you can use to learn the material faster and more thoroughly.
+如果有作业的话，尽早地创建一个最小版本的可提交的作业并苏子和你学习的内容的增加以及课程内容的熟悉继续完成作业。你可能需要主动的探寻它或者向老师询问前一年
+的作业。利用这次机会来尽可能的学习更多的知识，这些东西都是可以用来帮助你快速地、细致地学习材料。
