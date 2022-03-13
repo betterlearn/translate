@@ -29,4 +29,9 @@ Adopt a knowledge base strategy. A knowledge base strategy is a corpus of materi
  The principle is that you touch each resource once and process it thoroughly so that you can make best use of it again
  in the future as you need to. This typically means reading or consuming it and taking clear notes.
  (知识库的)原理就是你细致的一次过完每一项后你在未来需要的时候可以充分的利用起来。通常意味着细读并做好笔记。
- 
+Guide to Machine Learning Courses
+机器学习课程的指南
+Courses can have video, text, audio and in person components. You objective is to internalize the material you are exposed to from the course, associat
+it to knwoledge you already possess and capture that understanding in summary form.
+课程一般有个人的参与、讲座、课本、音频。你的目标是吸收内化掉你在课程中遇到的材料、联系自己已经掌握的知识并以表格的形式展现出理解。
+
