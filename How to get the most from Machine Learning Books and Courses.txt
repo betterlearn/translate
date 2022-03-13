@@ -34,4 +34,23 @@ Guide to Machine Learning Courses
 Courses can have video, text, audio and in person components. You objective is to internalize the material you are exposed to from the course, associat
 it to knwoledge you already possess and capture that understanding in summary form.
 课程一般有个人的参与、讲座、课本、音频。你的目标是吸收内化掉你在课程中遇到的材料、联系自己已经掌握的知识并以表格的形式展现出理解。
-
+Courses can also have additional reading and resources, as well as exams, tests, tutorials, exercises and assignments.
+Within reasons, these resources must also be processing in a similiar manner. They are all just tools designed to help
+you absorb the material and must exploit them to your benefit by integating the knowledge they expose into your knowledge
+base
+课程一般还有额外的阅读与资源和考试、测试、教程、练习、作业。在合理范围内，这些资源也必须是以相似的方式学习完。必须通过将材料中暴露出的
+知识整合到你的知识库中来利用它们，从而为你带来好处。
+Below are five tips for getting the most from a machine learning course.
+以下是五项关于如何充分利用机器学习课程的建议
+Regular Schedule
+固定的时间表
+Design a routine that you can complete the course work at a consistent and regular schedule. For example one hour a day every second
+day or 8 hours every Saturday. Block the time out in advance and make a efficient use of the time.
+设计出一项你可以定期并一致的时间表来完成课程的程序。比如说每两天一个小时或者每周六8小时。提前规划处时间并有效的利用时间。
+Routine can get you a long way. When the scheduled time comes around you do not want to have to think about what you have to do in 
+that time block. You must preallocate tasks in advance to avoid any overwhelm or over-thinking. At the end of each time block, 
+allocate the tasks for the next time block so they are ready and waiting for you.
+程序帮你坚持下去。安排好的时间来临后，你不必去想这块时间要去做什么。你必须提前分配任务避免任何的应接不暇或者过度的思考。
+Your time estimates will be wrong by a factor of 2 or 4. Consider at least doubling the time you schedule or havling the workload
+you pre-allocate to those times.
+你所预估的时间将可能需要2到4倍。考虑至少翻倍你的时长或者减半分配的时间段的任务量。
