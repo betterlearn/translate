@@ -53,4 +53,21 @@ allocate the tasks for the next time block so they are ready and waiting for you
 程序帮你坚持下去。安排好的时间来临后，你不必去想这块时间要去做什么。你必须提前分配任务避免任何的应接不暇或者过度的思考。
 Your time estimates will be wrong by a factor of 2 or 4. Consider at least doubling the time you schedule or havling the workload
 you pre-allocate to those times.
-你所预估的时间将可能需要2到4倍。考虑至少翻倍你的时长或者减半分配的时间段的任务量。
+你所预估的时间将可能需要2到4倍。考虑至少翻倍你的时长或者减半分配时间段的任务量。
+Create Lecture Notes
+创建课程笔记
+Courses are partitioned into modules or weeks or some similiar schedule. Each interval will have materials that you will be expected 
+to internalize. It is very likely that course will have a summary of the material in the form of notes or lecture slides.
+课程被分解成模块或者周或者一些类似的时刻表。课程的间隔间往往有要求你内化吸收的材料。课程很有可能会以笔记或者讲座幻灯片的形式总结的材料。
+Create your own summary of the material for the interval from scratch. This will require that you take notes from the material that
+you consume in the interval then break it down into a logical structure for summarization. This may be the same structure used to present
+the material to you, but is more often than not different. it can be different because you will have associated the material to knowledge
+you already have an can see a cleaner way to present the material  to your own mind than the way it was presented.
+从头创建你自己的课程材料的总结。要求你从课程中的材料做笔记然后把材料分解成有逻辑的结构来方便总结。材料的逻辑结构可能和展示给你的材料的逻辑结构一样，但是
+往往有所不同。它的不同是因为你将联系你已经学过的知识，与原本的方式相比，这样对于你的思考更加的清晰。
+Aim for about a one page summary for each module or week of material. This will vary with the amount of content, but the objective is to 
+summarize the material to the key concepts and a trail that links those concepts. Any detail you need on those concepts will be avaliable
+in the original material such as lecture video or required reading.
+对于每个模块或者每一个周的材料，以一页纸的总结为目标。这将依据内容的数量有所变化，但目标是总结关键的概念以及联系概念的途径。任何你需要的关于这些概念的细节
+可以在诸如在讲座视频、阅读文本等原材料上找到。
+
