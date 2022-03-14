@@ -116,3 +116,25 @@ Complete Additional Reading
 There is almost always additional reading for you to complete. Tackle this with vigor and use the processes listed below for internalizing
 this material into your knowledge base.
 经常会有额外的阅读需要你去完成。坚定不移地学习这些课外阅读使用下面列出的过程来吸收消化材料到你自己的知识库。
+Guide to Machine Learning Books
+机器学习书籍指南
+Machine learning books used to mean a collection of textbooks used for postgraduate research. The field has changed a lot in the last few 
+years and there is now an excellent range of applied books for beginners that contain assignments and practical tips and projects.
+这里的机器学习书籍指的是研究生做研究时的教材。近几年机器学习领域改变了许多所以有许多适合初学者的包含作业、实际经验、项目的很棒的应用书籍。
+I recommend starting with the applied books and moving into the textbooks as your understanding of the field matures and your thirst for 
+a deeper understanding motivate you.
+我推荐从应用相关的书籍开始然后随着你对该领域的熟悉进入到课本教材，这样你的渴望激励这你加深理解。
+You can process books faster than you can course because they are discrete and generally involve less material. If you cannot process 
+a book quickly is very likely a sign that you are not ready for it. Exploit this indicator and seek out resources to bridge the gap.
+For example, if you are lost on a mathematical treatment of a method for an extended period, it is very likely a sign that you need 
+to process some materials on the generall mathematical method before you tackle the specific treatment in the book.
+你应该能够看书比上课更快因为书本的内容是一节一节的一般来说很少涉及到其他的东西。如果你不能够很快的读完一本书那么很有可能是你还不合适读这本书。
+利用这个指示寻找资源补上缺陷。比如如果你在较长的一段时间内都困在一个方法的叙述中的数学内容，很有可能的情况是你需要在理解这本书里的具体叙述之前需要
+读一些关于该叙述的相关的数学知识。
+You can use books for reference to takcle subject specific material just in time. The tactics in this section are not for this use case.
+Like the tactics for processing of a course above, the tactics in this section are for processing a book in a linear fashion from start 
+to finish.
+你迟早都可以使用一些书籍作为参考来课程中具体的叙述。本节中所说的策略不是这种情况。就像前边提到过的完成课程的策略，本节中的这种策略是用了以一种线性
+的方式从头到尾的学习一本书。
+Below are five tactics for processing a machine learning book and incorporating the material into your knowledge base.
+以下是五种学习机器学习书籍并吸收到你的知识库中的策略
