@@ -138,3 +138,23 @@ to finish.
 的方式从头到尾的学习一本书。
 Below are five tactics for processing a machine learning book and incorporating the material into your knowledge base.
 以下是五种学习机器学习书籍并吸收到你的知识库中的策略
+Touch it Once
+一次过完
+It is better to process each page, each chapter, and the overbook slower than you can read it naturally so that you can get the benefit
+of only touching it once.
+最好在阅读每页、每章、整本书的时稍稍慢于自己正常阅读的速度以便于你体会只读一次的效果。
+Take your time and read the material carefully to ensure that you understand it and so that you can internalize it sufficiently that you 
+do not have to reread it. This might mean stopping if you are feeling fatigued or waitting until a quiet time so that you can give the 
+material an approriate treatment.
+慢慢来并小心地阅读材料确保你理解了内容以便于你足够的吸收、内隐化了内容而不必要去重新阅读。这意味着当你十分疲劳的时候停下来或者等到安静的时间段内以便于
+你阅读材料。
+Obviously you can touch the book again, but your future references to the material should be for fine grained detail and not the general 
+principles, because those should already be in your knowledge base.
+显然，你可以再读一遍书，但是你将来参考的时候资料应该相当的有调理性而不是泛泛的理论，因为资料已经在你的知识库中了。
+Active Reading
+主动阅读
+Active reading is seperate from passive reading in that you are taking notes. You are an active participant in the material as it unfolds
+as opposed to passively consuming it without action.
+主动阅读不同于被动阅读之处在于你是在做笔记的。随着材料的进行你是积极主动的参与到材料中去而不是消极的没有行动的阅读。
+Active reading is required to ensure you get the most from the book so that you only have to touch it once.
+主动阅读是做到确保你只需要过一次材料就可以充分地吸收书本。
