@@ -158,3 +158,18 @@ as opposed to passively consuming it without action.
 主动阅读不同于被动阅读之处在于你是在做笔记的。随着材料的进行你是积极主动的参与到材料中去而不是消极的没有行动的阅读。
 Active reading is required to ensure you get the most from the book so that you only have to touch it once.
 主动阅读是做到确保你只需要过一次材料就可以充分地吸收书本。
+Chapter Summary
+单元总结
+Create a one page summary of each chapter after you have finished reading it.
+阅读完每一章节后用一页纸来总结每章节
+I typically like extensive notes while reading but only the highlights of those notes become part of the chapter summary. I like the idea of 
+one-pagers, the constrained scope forces concise writing.
+在阅读的时候我特别喜欢"扩充"笔记，然而笔记中的重点才会成为单元总结的一部分。我喜欢“一页”的思想，（一张纸的）有限的空间内“强迫”你需要精练的语言。
+Book Summary
+课本总结
+Once you have completed summaries of all chapters in the book, create a one page summary of the entire book. This must include a brief summary
+of the key material in the book, likely touching on each chapter.
+一旦你完成了书中所有章节的总结，那么为整本书做一个总结。该总结必须是整本书的关键点的总结，像简要地总结每章节一样。
+I also like to include a line or two about the motivation of the authors to create the book, or the positioning. This helps me frame the book in 
+my mind and in my knowledge base when I need to refer back it.
+我也会用一两行总结作者写该书的动机或者（笔记所在的）目录地方。这样帮助我在自己的脑海里、知识库里形成了框架并在我需要参考的时候可以找到它。
