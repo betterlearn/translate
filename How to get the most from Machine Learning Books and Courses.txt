@@ -173,3 +173,25 @@ of the key material in the book, likely touching on each chapter.
 I also like to include a line or two about the motivation of the authors to create the book, or the positioning. This helps me frame the book in 
 my mind and in my knowledge base when I need to refer back it.
 我也会用一两行总结作者写该书的动机或者（笔记所在的）目录地方。这样帮助我在自己的脑海里、知识库里形成了框架并在我需要参考的时候可以找到它。
+Further Reading
+进一步阅读
+Machine Learning is a technical subject and almost all books will have references or further reading material. Carefully review the references and
+note each that you would like to read in follow-up and a note about why.
+机器学习是一门技术学科并且几乎所有的书籍都会有参考资料或者进一步阅读材料。仔细的回顾参考资料并注意每一个你接下来想要阅读的并附注阅读的原因。
+Include this list with your processed materials for the book. They can be useful to review in the future if you are looking for something to read
+or when you are looking to dive deeper on a particular method or technique.
+列表中包括你已经学习过的书籍。它们在你将来需要寻找资料阅读的时候或者对某个方法或者技术进一步钻研的时候十分有用。
+Extensions
+扩展
+The idea of keeping and maintaining a personal knowledge base is powerful if you are looking to accelerate your education in machine learning, or 
+any technical field for that matter.
+如果你打算快速学习机器学习或者其他技术领域的类似事情那么拥有并维持一个个人的知识库是十分强有效的。
+Below are some additional tips that you may find useful.
+以下是一些你可能发现有用的一般性建议
+Paper Archive: You will eventually end up locating and reading a lot of papers on machine learing. This includes conference articles, journal papers,
+dissertations and techinal reports. Collect these materials, their details and links to these materials so that I can reference them again quickly.
+Process papers.
+论文的备份：你最后将会找到并阅读许多机器学习方面的论文。它们包括会议文章、期刊论文、学位论文以及技术报告。收集这些材料、它们的细节并与（列表上的）那些材料联系起来以便于
+将来可以快速的引用它们。阅读论文。
+
+
