@@ -193,5 +193,24 @@ dissertations and techinal reports. Collect these materials, their details and l
 Process papers.
 论文的备份：你最后将会找到并阅读许多机器学习方面的论文。它们包括会议文章、期刊论文、学位论文以及技术报告。收集这些材料、它们的细节并与（列表上的）那些材料联系起来以便于
 将来可以快速的引用它们。阅读论文。
-
-
+Active Consumption: Use the active reading process to blog posts and research papers in the same way you would process the chapter of a book. If material 
+is junk(more often than not they can be), stop reading and note this in your knowledge base.
+主动阅读：使用你在主动阅读教材章节的方法来回帖以及阅读论文。如果论文太差（金玉其外败絮其中），放弃阅读它并在你的知识库中标记上。
+Algorithm Description: Maintain a corpus of algorithm descriptions. Use a template to formally describe an algorithm using a handful(5-10)key questions
+about the algorithm. Maintain the algorithms you have described using the template together. You will very quickly build up your own algorithm encyclopedia.
+算法描述：拥有一个算法表述的总结。使用五到十个关键关于算法的关键问题来形成对算法的表述的模板。同时使用你的模板维护所描述的算法。你将很快地建立起你自己的算法百科全书。
+Summary 
+总结
+In this post we have reviewed a strategy for building up a knowledge base for efficient self education of the field of machine learning. We then reviewed 
+5 tactics that can be used to build up this knowledge base from completing online courses and reading books.
+在该篇博客中我们回顾了一种高效的自学机器学习领域的一个策略，这个策略可以来构建一个知识库。然后我们回顾了5种用来完成在线课程以及阅读书籍的技巧来构造知识库。
+This is a full on process and much of these methods were developed for rapid learning as a consultant or as part of formal research programs where this
+is what I did all day. Pick and choose the elements of this knowledge base strategy you like and stick to them.
+该博客中涉及了许多的过程和方法，这些作为快速学习的参考或者说是正式研究项目中的一部分是我一直以来所使用的。挑选知识库策略中你喜欢的并坚持下去。
+In a short amount of time you will quickly be able to tell a good book from bad or a good paper from bad. Also, you will intimately understudying your 
+own learning style and your need for more formal training regimes will diminish as you will be albe to design a training program yourself to execute.
+你将会在短时间内快速的品味出好书、坏书或者好的、坏的论文。同样，你将会彻底地使用你自己的学习方式并且你对于更正式的训练制度的需要将减弱因为你将能够自己设计一个训练程
+序来执行。
+Which tip will use next time you take a course, watch a video or read a book? Do you have a tatic you use that you think would fit into the kownledge 
+base strategy? Leave a comment and share your experiences.
+你下次参加一门课程、观看一个视频、阅读一本书的时候会使用那种建议？你有的你认为适合知识库策略的技巧是什么？欢迎留言并分享你的经历。
